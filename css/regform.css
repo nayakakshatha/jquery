@@ -1,6 +1,7 @@
 label{
     width:120px;
     float:left;
+    font-size:19px;
 }
 .star{
     color:red;
@@ -9,4 +10,18 @@ label.error{
     float:none;
     color:red;
     padding-left: 20px;
+}
+input.inreg{
+    width:300px;
+    height:25px;
+}
+select.inreg{
+    width:300px;
+    height:25px;
+}
+#btnsub{
+     width:100px;
+    height:25px;
+    background-color:blue;
+    color:white;
 }
